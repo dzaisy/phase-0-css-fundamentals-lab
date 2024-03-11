@@ -2,4 +2,60 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+nav {
+  text-align: center;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+p {
+  font-size: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+div {
+  background-color: red;
+  height: 25%; 
+  float: left;
+  width: 100%;
+}
+
+.contact {
+  float: left;
+}
+
+.correspondence {
+  float: left;
+}
+
+.links {
+  float: left;
+}
+
+.follow {
+  float: left;
+}
+
+#details {
+  
 }
